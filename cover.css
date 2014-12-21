@@ -131,8 +131,15 @@ body {
 
 .center_faded_black {
   background-color: rgba(0,0,0,0.5);
+}
+
+.center_padding {
   padding-top:20%;
   padding-bottom:20%;
+}
+
+.social_link {
+  font-size:20px;
 }
 
 .big_text {
